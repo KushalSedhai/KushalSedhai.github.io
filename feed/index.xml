@@ -12,7 +12,7 @@
 	<atom:link href="https://kushalsedhai.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://kushalsedhai.github.io</link>
 	<description></description>
-	<lastBuildDate>Sun, 15 Oct 2023 05:48:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Sep 2023 17:40:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,11 +21,11 @@
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://kushalsedhai.github.io/2023/10/15/hello-world/</link>
-					<comments>https://kushalsedhai.github.io/2023/10/15/hello-world/#comments</comments>
+		<link>https://kushalsedhai.github.io/hello-world/</link>
+					<comments>https://kushalsedhai.github.io/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 15 Oct 2023 05:48:30 +0000</pubDate>
+		<pubDate>Thu, 28 Sep 2023 17:40:03 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://kushalsedhai.github.io/?p=1</guid>
 
@@ -34,7 +34,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://kushalsedhai.github.io/2023/10/15/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://kushalsedhai.github.io/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
