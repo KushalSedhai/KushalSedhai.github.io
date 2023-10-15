@@ -1,2 +1,3 @@
-# kushalsedhai.github.io
-my portfolio
+#Kushal Sedhai
+
+An Engineer for a cause.
